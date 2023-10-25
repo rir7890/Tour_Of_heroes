@@ -1,5 +1,10 @@
 # AngularTourOfHeroes
 
+![image](https://github.com/rir7890/Tour_Of_heroes/assets/98277620/5c4a3e50-aeaa-468c-b229-fc7d1a9eb084)
+![image](https://github.com/rir7890/Tour_Of_heroes/assets/98277620/35c1bffd-f972-412d-a954-e2c6af1e6141)
+![image](https://github.com/rir7890/Tour_Of_heroes/assets/98277620/c0b31e5d-bb09-46fb-b107-346be6ba1fb5)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 
 ## Development server
